@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Channelswitcher-CLI",
+    "author": "Neko",
+    "description": "Channelswitcher for Tera CLI",
+    "options": {
+        "niceName": "Channelswitcher-CLI",
+        "guiName": "Channelswitcher-CLI"
+    },
+    "servers": ["https://raw.githubusercontent.com/PatrickSantoZZ/Channelswitcher-CLI/master/"]
+}
