@@ -1,6 +1,6 @@
 ## Channelswitcher-CLI
 Channel switcher? yes? Clientless? YES!
-
+- you can use ch or c as command
 # Commands
 command | description
 --- | ---
