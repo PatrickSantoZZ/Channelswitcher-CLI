@@ -1,0 +1,10 @@
+{
+    "files": {
+        "index.js": "f8b9dbcca081a90302a62791882552cbc01465bf2003fe88986b3b5fb0899c4c",
+        "module.json": "290ab14705b110471fcbf01d587a30841b70f207f2f2ab9dacb74e463e09f54a"
+    },
+    "defs": {
+        "C_SELECT_CHANNEL": 1,
+        "S_CURRENT_CHANNEL": 2
+    }
+}
